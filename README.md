@@ -6,7 +6,7 @@
 ## Painel de Dados! 📈 
 
 <p> Clique e confira o 
-<a href="https://litzafontana-dados-covid19-codigobase-r14hg1.streamlitapp.com">Painel Interativo Covid</a></p>
+<a href="https://litzafontana-dados-covid19-codigobase-r14hg1.streamlitapp.com">Painel Interativo Covid-19</a></p>
 
 </span>
 
