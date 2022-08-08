@@ -4,4 +4,4 @@
 
 
 <div align ="center">
-<img src="![painel](https://user-images.githubusercontent.com/96260986/183466453-bca506d8-6ada-4c89-b211-2bcac2fb87cb.png)"n width="700px" />
+<img src="![painel](https://user-images.githubusercontent.com/96260986/183466453-bca506d8-6ada-4c89-b211-2bcac2fb87cb.png)" width="700px" />
